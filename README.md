@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
