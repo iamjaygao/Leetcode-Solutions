@@ -3,7 +3,10 @@ class Solution:
         """
         Finds the kth largest element using a min-heap of size k
         """
-        return heapq.nlargest(k,nums)[-1]
+        heapq.heapify(nums)
+        for i in range(len(nums) - k):
+            heapq.heappop(nums)
+        return nums[0]
         
 
 
