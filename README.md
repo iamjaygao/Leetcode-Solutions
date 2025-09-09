@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
