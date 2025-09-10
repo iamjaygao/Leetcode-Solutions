@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
