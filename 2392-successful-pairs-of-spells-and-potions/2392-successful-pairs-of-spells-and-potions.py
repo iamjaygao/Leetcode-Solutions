@@ -11,21 +11,13 @@ class Solution(object):
         result = []
 
         for spell in spells:
-            min_potion = (success + spell -1) // spell
+            min_potion = (success + spell - 1) // spell
             
-            left, right = 0, n
-
-            while left < right:
-                mid = (right + left) // 2
-                
-                if potions[mid] < min_potion:
-                    left = mid + 1
-                else:
-                    right = mid
-            result.append(n-left)
+            idx = bisect.bisect_left(potions, min_potion)
+            result.append(n-idx)
         return result
 
-       
+
 
 
 
