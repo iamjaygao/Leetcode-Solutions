@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
