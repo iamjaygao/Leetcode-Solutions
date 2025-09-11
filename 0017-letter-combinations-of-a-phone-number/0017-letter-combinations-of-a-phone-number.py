@@ -1,38 +1,49 @@
 class Solution:
-    def __init__(self):
-        self.letterMap =[
-            "",          #0
-            "",          #1
-            "abc",      #2
-            "def",       #3
-            "ghi",       #4
-            "jkl",       #5
-            "mon" ,      #6
-            "pqrs",      #7
-            "tuv",       #8
-            "wxyz",     #9
-        ]
-        self.result = []
-        self.s =""
-
-    # index here used to track the digit in digits
-    def backtracking(self, digits, index):
-        if index == len(digits):
-            self.result.append(self.s)
-            return 
-        digit = int(digits[index])
-        letters = self.letterMap[digit]
-        for i in range(len(letters)):
-            self.s += letters[i]
-            self.backtracking(digits, index+1)
-            self.s = self.s[:-1]
-
-
     def letterCombinations(self, digits: str) -> List[str]:
-        if len(digits) == 0:
-            return self.result
-        self.backtracking(digits, 0)
-        return self.result
+        # edge case handle
+        if not digits:
+            return []
+
+        # direct used to handle the map
+        digit_map = {
+            '2': 'abc',
+            '3': 'def',
+            '4': 'ghi',
+            '5': 'jkl',
+            '6': 'mno',
+            '7': 'pqrs',
+            '8': 'tuv',
+            '9': 'wxyz'
+        }
+
+        # used to save the result
+        result = []
+
+        # calculate the length of the digits
+        n = len(digits)
+
+        # deep first search used to find the leaves which is the final answer as an elements in the new array
+        def dfs(idx, comb):
+
+            # base case, if the size of numbers equals to the size of output string
+            # like,if you input '23', the size is 2, and the size of output should be 2
+            # like 'ae', 'bf'....
+            if idx == n:
+                result.append(''.join(comb))
+                return
+            
+            # get the current digit, which is a string type
+            # get the letter based on the given digit via digit_map
+            current_digit = digits[idx]
+            letters = digit_map[current_digit]
+
+            # iterate letters based on current given digit
+            for letter in letters:
+                comb.append(letter)         #push the current letter to the comb
+                dfs(idx + 1, comb)          #recursively call the dfs until reach the base case, and return the final element, and append to the result.
+                comb.pop()                  # pop the last element of the for the next iteration
+        dfs(0, [])
+        return result
 
 
         
