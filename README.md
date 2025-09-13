@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1250-longest-common-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
