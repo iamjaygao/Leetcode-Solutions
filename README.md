@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2636-maximum-subsequence-score) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
