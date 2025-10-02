@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Array
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2636-maximum-subsequence-score) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2636-maximum-subsequence-score) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 ## Monotonic Stack
 |  |
 | ------- |
