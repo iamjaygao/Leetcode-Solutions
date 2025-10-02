@@ -3,17 +3,16 @@ class Solution:
         if not points:
             return 0
 
-        n = len(points)
-        sorted_p = sorted(points)
-        shoots = 1
-        current_end = sorted_p[0][1]
-
-        for i in range(1, n):
-            if sorted_p[i][0] > current_end:
-                shoots += 1
-                current_end = sorted_p[i][1]
-            else:
-                current_end = min(current_end, sorted_p[i][1])
-
-        return shoots
+        # sort balloons by their end coordinate
+        points.sort(key = lambda x : x[1])
         
+        arrow = 1
+        arrow_pos = points[0][1]    #shoot the arraw at the end of first ballon
+        for i in range(1, len(points)):
+            start, end = points[i]
+
+            # if current balloon start after current arrow positions, need new arrow
+            if start > arrow_pos:
+                arrow += 1
+                arrow_pos = end     #shoot new arrow at the end of current ballon
+        return arrow
