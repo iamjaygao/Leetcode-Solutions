@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1675-magnetic-force-between-two-balls](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-find-the-highest-altitude](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
