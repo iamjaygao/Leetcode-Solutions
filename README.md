@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
