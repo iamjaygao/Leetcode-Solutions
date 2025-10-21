@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
