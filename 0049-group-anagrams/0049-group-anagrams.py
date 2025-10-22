@@ -1,10 +1,15 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        result = defaultdict(list)
+        count = defaultdict(list)
+   
         for s in strs:
-            key = "".join(sorted(s))
-            result[key].append(s)
-        return list(result.values())
+            sorted_s = "".join(sorted(s))
+            count[sorted_s].append(s)
+
+
+        return list(count.values())
+
+
 
 
 
