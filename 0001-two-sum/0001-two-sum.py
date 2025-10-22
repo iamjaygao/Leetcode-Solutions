@@ -1,18 +1,17 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        set_ = {}
-        res = []
-        n = len(nums)
-        for i in range(n):
-            key = target - nums[i]
-            if key in set_:
-                res.append(i)
-                res.append(set_[key])
-                del set_[key]
+        count = {}
+        result = []
+        for i, num in enumerate(nums):
+            difference = target - num
+            if difference in count:
+                result.append(i)
+                result.append(count[difference])
+                count[difference] -= 1
             else:
-                set_[nums[i]] = i
-        return res
-
+                count[num] = i
+        return result
+            
 
             
                 
