@@ -6,15 +6,16 @@ class Solution:
         dp
         """
         n = len(nums)
-        dp = [float("inf")] * n
-        dp[0] = 0
-        for i in range(n):
-            for j in range(i):
-                if j + nums[j] >= i:
-                    dp[i] = min(dp[i], dp[j] + 1)
-        return dp[n-1]
- 
-            
+        end = 0
+        largest = 0
+        step = 0
+        for i in range(n-1):
+            largest = max(largest, nums[i] + i)
+            if i == end:
+                step += 1
+                end = largest
+        return step
+               
 
             
 
