@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
