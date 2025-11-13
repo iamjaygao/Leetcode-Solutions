@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -300,9 +301,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
