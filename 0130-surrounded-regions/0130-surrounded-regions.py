@@ -17,15 +17,11 @@ class Solution:
                 dfs(nc, nr)
 
         for i in range(n):
-            if board[0][i] == "O":
-                dfs(0,i)
-            if board[m-1][i] == "O":
-                dfs(m-1, i)
+            dfs(0,i)
+            dfs(m-1, i)
         for j in range(m):
-            if board[j][0] == "O":
-                dfs(j, 0)
-            if board[j][n-1] == "O":
-                dfs(j,n-1)
+            dfs(j, 0)
+            dfs(j,n-1)
       
         for i in range(m):
             for j in range(n):
