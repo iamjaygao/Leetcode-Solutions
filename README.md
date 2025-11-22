@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1036-rotting-oranges](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
@@ -323,17 +324,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
