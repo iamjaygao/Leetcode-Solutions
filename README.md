@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1236-n-th-tribonacci-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
