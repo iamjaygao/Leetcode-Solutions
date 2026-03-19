@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1236-n-th-tribonacci-number](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
