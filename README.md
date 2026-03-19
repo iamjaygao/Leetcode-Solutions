@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0334-increasing-triplet-subsequence](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1397-search-suggestions-system](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
