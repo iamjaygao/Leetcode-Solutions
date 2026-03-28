@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0704-binary-search](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/iamjaygao/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
